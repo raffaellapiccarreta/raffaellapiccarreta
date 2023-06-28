@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @raffaellapiccarreta
-- 👀 I’m interested in social sciences, statistics, data analytics
-- 📫 How to reach me: raffaella.piccarreta@unibocconi.it
+Welcome to my personal website repository
+I will post here material on my research and teaching activity
 
 <!---
 raffaellapiccarreta/raffaellapiccarreta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
